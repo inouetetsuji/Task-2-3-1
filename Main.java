@@ -13,7 +13,11 @@ package study;
 
 	        // ③ Taskクラスのインスタンスを生成し、「doTask()」メソッドを呼び出しなさい。
         Task task=new Task();
+<<<<<<< HEAD
         task.doTask();
+=======
+        task.dotask();
+>>>>>>> 38624b6bf86b76f596446881373852a80103cac9
 
 	    }
 
