@@ -10,6 +10,7 @@ public class Culculator {
     protected int plus(int a) {
         return a + 1;
 <<<<<<< HEAD
+<<<<<<< HEAD
     }
     protected int plus(int a, int b) {
         return a + b;
@@ -17,6 +18,8 @@ public class Culculator {
     protected int plus(int a, int b, int c) {
         return a + b + c;
 =======
+=======
+>>>>>>> 38624b6bf86b76f596446881373852a80103cac9
         System.out.println("変数が一つの場合は"+());
     }
 
@@ -28,6 +31,9 @@ public class Culculator {
     protected int plus(int a, int b, int c) {
         return a + b + c;
         System.out.println("変数が三つの場合は"+();
+<<<<<<< HEAD
+>>>>>>> 38624b6bf86b76f596446881373852a80103cac9
+=======
 >>>>>>> 38624b6bf86b76f596446881373852a80103cac9
     }
 }
